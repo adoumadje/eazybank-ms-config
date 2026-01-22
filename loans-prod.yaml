@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to EazyBank loans related local APIs - Prod Profile"
+  contactDetails:
+    name: "Pape Thiaw - Product Owner"
+    email: "pape.thiaw@senefoot.org"
+  onCallSupport:
+    - (666) 589-5841
+    - (666) 365-7943

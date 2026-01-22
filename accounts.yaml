@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs - Developer Profile"
+  contactDetails:
+    name: "Sadio Mane - Developer"
+    email: "sadio.mane@alnassr.org"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
