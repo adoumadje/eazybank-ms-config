@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs - QA Profile - Github Modification"
+  message: "Welcome to EazyBank accounts related local APIs - QA Profile"
   contactDetails:
     name: "Gana Geye - QA Lead"
     email: "gana.geye@psg-fc.org"
