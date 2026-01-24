@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related local APIs - QA Profile"
   contactDetails:
     name: "Gana Geye - QA Lead"
-    email: "gana.geye@psg-fc.org"
+    email: "{cypher}28abe1dcde4224edfbacf7ff30dfcf3313ebebbb698c5d02a0edaca054d184640313d356f8584f44089027d32e214010"
   onCallSupport:
     - (666) 589-5841
     - (666) 365-7943
