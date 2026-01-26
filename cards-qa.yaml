@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank cards related local APIs - QA Profile - webhook"
+  message: "Welcome to EazyBank cards related local APIs - QA Profile - webhook 2"
   contactDetails:
     name: "Gana Geye - QA Lead"
     email: "gana.geye@psg-fc.org"
