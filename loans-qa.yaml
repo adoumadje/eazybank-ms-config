@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to EazyBank loans related local APIs - QA Profile - modified"
+  message: "Welcome to EazyBank loans related local APIs - QA Profile"
   contactDetails:
     name: "Gana Geye - QA Lead"
     email: "gana.geye@psg-fc.org"
