@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs - QA Profile - modified"
+  message: "Welcome to EazyBank accounts related local APIs - QA Profile"
   contactDetails:
     name: "Gana Geye - QA Lead"
     email: "{cipher}28abe1dcde4224edfbacf7ff30dfcf3313ebebbb698c5d02a0edaca054d184640313d356f8584f44089027d32e214010"
